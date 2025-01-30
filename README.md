@@ -1,5 +1,6 @@
 # Pedro Félix
 
+ **[Pedro Félix]** | [ph-felix@hotmaiil.com](mailto:ph-felix@hotmaiil.com)
 ## About Me
 
 👨‍💻 Performance Test Engineer | Specialized in JMeter, K6, AWS, Docker, CI/CD  
@@ -7,13 +8,3 @@
 🧑‍💻 Programming languages: Python, JavaScript, TypeScript, Java  
 ⚡ Focused on system optimization and performance analysis  
 🌍 Passionate about exploring new technologies and always learning
-
----
-
-📫 **Connect with me:**  
-- [LinkedIn](https://www.linkedin.com/in/pedrofelixx/)  
-- [Outlook](ph-felix@hotmaiil.com)
-
----
-
-
